@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first reposiory
 <br>
-Author-Arpitha S
+Author-Arpitha S(Gowda)
